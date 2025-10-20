@@ -3,16 +3,11 @@
 ##### HTML & CSS - Tillgänglighet, vecka 1 av 4
 
 ## 🎯 Mål för veckan
-
-Efter denna vecka ska du:
-1.  Kunna tillämpa och kombinera tidigare inlärda TypeScript-koncept i ett **större code-along-projekt**.
-2.  Förstå hur man hanterar **formulärdata** i TypeScript.
-3.  Kunna utföra grundläggande **typvalidering** av indata från formulär.
-4.  Förstå och kunna använda **destructuring** för objekt och arrayer för att skriva mer koncis kod.
-5.  Förstå **händelseflödet (bubbling)** i DOM och kunna hantera olika typer av **events**.
-6.  Kunna använda `event.preventDefault()` för att kontrollera standardbeteenden i webbläsaren.
-7.  Förstå konceptet med **moduler** i TypeScript/JavaScript för att strukturera större kodbaser.
-8.  Ha påbörjat arbetet med det större **"Bucket List"-projektet**.
+1.  Känna till WCAG och principer för tillgänglighet
+2.  Förstå semantisk HTML och varför det är viktigt
+3.  Kunna anpassa HTML för god tillgänglighet (landmarks, headings, list, images, buttons, links osv)
+4.  Kunna använda olika verktyg som WAVE, tangentbord och skärmläsare för att testa tillgänglighet
+5.  Kunna göra skip links för bättre navigering via tangentbord
 
 ## 📚 Material
 
@@ -21,20 +16,19 @@ Efter denna vecka ska du:
 * [(Pluralsight) HTML 5 and CSS 3: Overview of Tag, Attribute and Selector Additions - Del 1 + 2 - Overview & Updates + HTML5 Elements](https://app.pluralsight.com/library/courses/html-5-css-3-overview-tag-attribute-selector-additions/table-of-contents)
 * [(YT - Kevin Powell) HTML & CSS for Absolute Beginners: Semantic HTML](https://www.youtube.com/watch?v=YOsMJQfwqow&list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx&index=11)
 * [(Pluralsight) Testing Techniques for Web Accessibility - Del 1 + 2 samt del 3 om WAVE](https://app.pluralsight.com/library/courses/testing-techniques-web-accessibility/table-of-contents)
-  
-### YouTube
 
 ### Läsning
 * [MDN - Landmarks](https://developer.mozilla.org/en-US/blog/aria-accessibility-html-landmark-roles/)
 
 ## 🛠️ Övningar
-
+https://www.accede-web.com/en/guidelines/html-css/keyboard-navigation/skip-links/
 
 ## 🖥️ Slides
 
 
 ## ➕ Övrigt
-
+https://code.visualstudio.com/docs/languages/emmet
+https://wave.webaim.org/extension/
 
 ## 📑 Lektionsrepon
 
