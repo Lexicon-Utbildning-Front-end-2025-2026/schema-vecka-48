@@ -30,7 +30,7 @@
 * [Om Emmet](https://code.visualstudio.com/docs/languages/emmet)
 * [WAVE plugin](https://wave.webaim.org/extension/)
 
-## 📑 Lektionsrepon
+## 📑 Veckan/Lektionsrepon
 
 * **Måndag** (Robert/Maja) - **Välkomna:** En vanlig dag på kursen
 * **Tisdag** (Maja) - **WCAG Intro:** + Vad är WCAG? Semantisk HTML
