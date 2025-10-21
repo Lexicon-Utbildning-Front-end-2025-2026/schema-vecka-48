@@ -33,10 +33,10 @@
 ## 📑 Lektionsrepon
 
 * **Måndag** (Robert/Maja) - **Välkomna:** En vanlig dag på kursen
-* **Tisdag** (Maja) **WCAG Intro:** + Vad är WCAG? Semantisk HTML
-* **Onsdag** (Robert) **Tillgänglig HTML:** Landmarks/headings, listor för tillgänglighet (med rubriker osv), images, links/buttons, tabeller
-* **Torsdag** (Linus) **WCAG testning:** - Olika tester av kontraster mm, med WAVE, screenreader, tab/tangentbordsnavigation och ev andra verktyg. Skapa skip links
-* **Fredag** **Code review:** - Code review av tillgänglig receptsida
+* **Tisdag** (Maja) - **WCAG Intro:** + Vad är WCAG? Semantisk HTML
+* **Onsdag** (Robert) - **Tillgänglig HTML:** Landmarks/headings, listor för tillgänglighet (med rubriker osv), images, links/buttons, tabeller
+* **Torsdag** (Linus) - **WCAG testning:** - Olika tester av kontraster mm, med WAVE, screenreader, tab/tangentbordsnavigation och ev andra verktyg. Skapa skip links
+* **Fredag** - **Code review:** - Code review av tillgänglig receptsida
 
 
 
