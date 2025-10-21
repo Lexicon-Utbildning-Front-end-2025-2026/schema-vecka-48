@@ -21,14 +21,14 @@
 * [MDN - Landmarks](https://developer.mozilla.org/en-US/blog/aria-accessibility-html-landmark-roles/)
 
 ## 🛠️ Övningar
-https://www.accede-web.com/en/guidelines/html-css/keyboard-navigation/skip-links/
+* Gör en skip link på receptsidan: https://www.accede-web.com/en/guidelines/html-css/keyboard-navigation/skip-links/
 
 ## 🖥️ Slides
-[Välkomna](https://lexicon-my.sharepoint.com/:p:/g/personal/robert_hedblad_lexicon_se/EUdV9qIsZFhDofXSTthYZ1AB1IDyRBlut6tjiFHOr02txA?e=xcaaBh)
+* [Välkomna](https://lexicon-my.sharepoint.com/:p:/g/personal/robert_hedblad_lexicon_se/EUdV9qIsZFhDofXSTthYZ1AB1IDyRBlut6tjiFHOr02txA?e=xcaaBh)
 
 ## ➕ Övrigt
-https://code.visualstudio.com/docs/languages/emmet
-https://wave.webaim.org/extension/
+* [Om Emmet](https://code.visualstudio.com/docs/languages/emmet)
+* [WAVE plugin](https://wave.webaim.org/extension/)
 
 ## 📑 Lektionsrepon
 
