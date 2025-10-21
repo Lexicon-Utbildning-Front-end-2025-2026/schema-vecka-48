@@ -24,7 +24,7 @@
 https://www.accede-web.com/en/guidelines/html-css/keyboard-navigation/skip-links/
 
 ## 🖥️ Slides
-
+[Välkomna](https://lexicon-my.sharepoint.com/:p:/g/personal/robert_hedblad_lexicon_se/EUdV9qIsZFhDofXSTthYZ1AB1IDyRBlut6tjiFHOr02txA?e=xcaaBh)
 
 ## ➕ Övrigt
 https://code.visualstudio.com/docs/languages/emmet
