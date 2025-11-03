@@ -19,6 +19,9 @@
 
 ### Läsning
 * [MDN - Landmarks](https://developer.mozilla.org/en-US/blog/aria-accessibility-html-landmark-roles/)
+* [MDN - The Table element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table)
+* [MDN - The List Item element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li)
+* [MDN - Accessibility for images](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img#accessibility)
 
 ## 🛠️ Övningar
 * Gör en skip link på receptsidan: https://www.accede-web.com/en/guidelines/html-css/keyboard-navigation/skip-links/
