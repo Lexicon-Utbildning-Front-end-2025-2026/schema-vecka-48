@@ -25,6 +25,7 @@
 * [css-tricks - Links and Buttons Guide](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
 
 ## 🛠️ Övningar
+* Gör receptsidan så tillgänglig du bara kan (testa med WAVE, tangentbord, skärmläsare mm)
 * Gör en skip link på receptsidan: https://www.accede-web.com/en/guidelines/html-css/keyboard-navigation/skip-links/
 
 ## 🖥️ Slides
