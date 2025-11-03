@@ -22,6 +22,7 @@
 * [MDN - The Table element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table)
 * [MDN - The List Item element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li)
 * [MDN - Accessibility for images](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img#accessibility)
+* [css-tricks - Links and Buttons Guide](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
 
 ## 🛠️ Övningar
 * Gör en skip link på receptsidan: https://www.accede-web.com/en/guidelines/html-css/keyboard-navigation/skip-links/
