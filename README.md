@@ -16,6 +16,7 @@
 * [(Pluralsight) HTML 5 and CSS 3: Overview of Tag, Attribute and Selector Additions - Del 1 + 2 - Overview & Updates + HTML5 Elements](https://app.pluralsight.com/library/courses/html-5-css-3-overview-tag-attribute-selector-additions/table-of-contents)
 * [(YT - Kevin Powell) HTML & CSS for Absolute Beginners: Semantic HTML](https://www.youtube.com/watch?v=YOsMJQfwqow&list=PL4-IK0AVhVjOJs_UjdQeyEZ_cmEV3uJvx&index=11)
 * [(Pluralsight) Testing Techniques for Web Accessibility - Del 1 + 2 samt del 3 om WAVE](https://app.pluralsight.com/library/courses/testing-techniques-web-accessibility/table-of-contents)
+* [How to Check Web Accessibility with a Screen Reader and Keyboard](https://www.youtube.com/watch?v=yV_ENQZq3fs)
 
 ### Läsning
 * [MDN - Landmarks](https://developer.mozilla.org/en-US/blog/aria-accessibility-html-landmark-roles/)
