@@ -23,6 +23,7 @@
 * [MDN - The List Item element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li)
 * [MDN - Accessibility for images](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img#accessibility)
 * [css-tricks - Links and Buttons Guide](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
+* [Narrator keyboard shortcuts](https://dequeuniversity.com/screenreaders/narrator-keyboard-shortcuts)
 
 ## 🛠️ Övningar
 * Gör receptsidan så tillgänglig du bara kan (testa med WAVE, tangentbord, skärmläsare mm)
