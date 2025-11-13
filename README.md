@@ -25,6 +25,7 @@
 * [MDN - Accessibility for images](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img#accessibility)
 * [css-tricks - Links and Buttons Guide](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
 * [Narrator keyboard shortcuts](https://dequeuniversity.com/screenreaders/narrator-keyboard-shortcuts)
+* Extra om ni vill läsa mer om skillnaden på em/i/kursiv samt b/strong/fetstil text [MDN - <em>: The Emphasis element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/em) + [<strong>: The Strong Importance element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/strong)
 
 ## 🛠️ Övningar
 * Gör receptsidan så tillgänglig du bara kan (testa med WAVE, tangentbord, skärmläsare mm)
