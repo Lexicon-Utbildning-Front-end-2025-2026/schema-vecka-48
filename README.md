@@ -32,6 +32,8 @@
 
 ## 🖥️ Slides
 * [Välkomna](https://lexicon-my.sharepoint.com/:p:/g/personal/robert_hedblad_lexicon_se/EUdV9qIsZFhDofXSTthYZ1AB1IDyRBlut6tjiFHOr02txA?e=xcaaBh)
+* [WCAG - intro](https://docs.google.com/presentation/d/14PBtR-kbY_-OGTYtFmn-E-7VmBUYViT_IqPrecg4NAo/edit?usp=sharing)
+* [Semantisk HTML](https://docs.google.com/presentation/d/16vpZzGOtxvnCnzxhiaQdw9CLjBGFW8laZAAIyTSuUG4/edit?usp=sharing)
 
 ## ➕ Övrigt
 * [Om Emmet](https://code.visualstudio.com/docs/languages/emmet)
