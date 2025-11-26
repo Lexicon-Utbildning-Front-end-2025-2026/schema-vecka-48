@@ -29,6 +29,7 @@
 
 ## 🛠️ Övningar
 * Gör receptsidan så tillgänglig du bara kan (testa med WAVE, tangentbord, skärmläsare mm)
+* [Extra uppgift (Frivillig) - Försök att göra denna design i HTML med så god tillgänglighet som möjligt. Ni behöver inte lägga tid på CSS utan kan bara göra ostylad html. Viktiga är att ni övar på semantiken, WAVE och ev screenreader. ](https://www.figma.com/design/lE54aXdSBU8k2Uhlb3m5gY/Untitled?node-id=35-2&p=f)
 
 ## 🖥️ Slides
 * [Välkomna](https://lexicon-my.sharepoint.com/:p:/g/personal/robert_hedblad_lexicon_se/EUdV9qIsZFhDofXSTthYZ1AB1IDyRBlut6tjiFHOr02txA?e=xcaaBh)
