@@ -45,7 +45,7 @@
 * **Måndag** (Robert/Maja) - **Välkomna:** En vanlig dag på kursen
 * **Tisdag** (Maja) - **WCAG Intro:** + Vad är WCAG? Semantisk HTML
 * **Onsdag** (Linus) - **WCAG testning:** - Olika tester av kontraster mm, med WAVE, screenreader, tab/tangentbordsnavigation och ev andra verktyg. Skapa skip links
-* **Torsdag** (Robert) - **Tillgänglig HTML:** Landmarks, heading/footer i och utanför main, listor för tillgänglighet (med rubriker osv), images, links/buttons, tabeller
+* [**Torsdag** (Robert) - **Tillgänglig HTML:** Landmarks, heading/footer i och utanför main, listor för tillgänglighet (med rubriker osv), images, links/buttons, tabeller](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-26-nov)
 * **Fredag** - **Code review:** - Code review av tillgänglig receptsida
 
 
