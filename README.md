@@ -40,6 +40,7 @@
 ## ➕ Övrigt
 * [Om Emmet](https://code.visualstudio.com/docs/languages/emmet)
 * [WAVE plugin](https://wave.webaim.org/extension/)
+* [Bad code exercise](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/bad-code-exercise)
 
 ## 📑 Veckan/Lektionsrepon
 
