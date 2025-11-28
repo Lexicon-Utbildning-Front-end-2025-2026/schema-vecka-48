@@ -25,6 +25,7 @@
 * [MDN - Accessibility for images](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img#accessibility)
 * [css-tricks - Links and Buttons Guide](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
 * [Windows Narrator keyboard shortcuts](https://dequeuniversity.com/screenreaders/narrator-keyboard-shortcuts)
+* [Alt vs figcaption](https://thoughtbot.com/blog/alt-vs-figcaption)
 * Extra om ni vill läsa mer om skillnaden på em/i/kursiv samt b/strong/fetstil text [MDN - The Emphasis element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/em) + [MDN - The Strong Importance element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/strong)
 * Extra om ni vill få mer info om varför semantisk html är viktigt [(dev.to) Semantic HTML in 2025: The Bedrock of Accessible, SEO-Ready, and Future-Proof Web Experiences](https://dev.to/gerryleonugroho/semantic-html-in-2025-the-bedrock-of-accessible-seo-ready-and-future-proof-web-experiences-2k01)
 
